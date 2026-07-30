@@ -5,12 +5,16 @@
 </p>
 
 <p align="center">
-  <img src="profile/stats.svg" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=Farflan&hide_border=true&background=0D1117&ring=863BFF&fire=863BFF&currStreakLabel=47BFFF&sideLabels=EDE6FF&currStreakNum=EDE6FF&sideNums=EDE6FF&dates=EDE6FF" height="165" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farflan/Farflan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farflan/Farflan/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Farflan/Farflan/output/github-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="profile/top-langs.svg" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=Farflan&hide_border=true&background=0D1117&ring=863BFF&fire=863BFF&currStreakLabel=47BFFF&sideLabels=EDE6FF&currStreakNum=EDE6FF&sideNums=EDE6FF&dates=EDE6FF" height="165" alt="GitHub streak" />
+  <img src="profile/top-langs.svg" height="165" alt="Top languages" />
 </p>
 
 ## Stack
