@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/ton-618.gif" width="320" alt="Pixel-art animation of TON 618, a supermassive black hole" />
+  <img src="assets/ton-618.gif" width="100%" alt="Pixel-art animation of TON 618, a supermassive black hole" />
   <br />
   <sub>TON 618 — an ultramassive black hole, ~66 billion solar masses</sub>
 </p>
