@@ -5,11 +5,9 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farflan/Farflan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farflan/Farflan/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Farflan/Farflan/output/github-snake.svg" />
-  </picture>
+  <img src="assets/ton-618.gif" width="320" alt="Pixel-art animation of TON 618, a supermassive black hole" />
+  <br />
+  <sub>TON 618 — an ultramassive black hole, ~66 billion solar masses</sub>
 </p>
 
 <p align="center">
