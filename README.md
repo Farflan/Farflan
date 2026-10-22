@@ -1,62 +1,101 @@
 <h1 align="center">Hi, I'm Cristopher 👋</h1>
 
 <p align="center">
-  Full-stack developer building <b>AI agents</b> and <b>native macOS tools</b> for everyday personal use.
+I build the software I live with: <b>AI agents</b>, <b>macOS tools</b> and an <b>always-on room display</b>.
 </p>
 
 <p align="center">
-  <img src="assets/ton-618.gif" width="100%" alt="Pixel-art animation of TON 618, a supermassive black hole" />
-  <br />
-  <sub>TON 618 — an ultramassive black hole, ~66 billion solar masses</sub>
+<img src="assets/ton-618.gif" width="100%" alt="Pixel-art animation of TON 618, an ultramassive black hole" />
+<br />
+<sub>TON 618 — an ultramassive black hole, ~66 billion solar masses</sub>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Farflan&hide_border=true&background=0D1117&ring=863BFF&fire=863BFF&currStreakLabel=47BFFF&sideLabels=EDE6FF&currStreakNum=EDE6FF&sideNums=EDE6FF&dates=EDE6FF" height="165" alt="GitHub streak" />
-  <img src="profile/top-langs.svg" height="165" alt="Top languages" />
+<sub><b>NOW</b> &nbsp;·&nbsp; bringing Personal Hub up on its Windows host &nbsp;·&nbsp; shipping Grocery Tracker on iOS 26</sub>
 </p>
 
 ## Stack
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C++-438EFF?style=for-the-badge&logo=apple&logoColor=white)
+![Python](https://img.shields.io/badge/Python-24292F?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&logo=javascript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-24292F?style=for-the-badge&logo=swift&logoColor=white)
+![Objective-C++](https://img.shields.io/badge/Objective--C++-24292F?style=for-the-badge&logo=apple&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-24292F?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Frameworks & Runtime**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-24292F?style=for-the-badge&logo=react&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-24292F?style=for-the-badge&logo=electron&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-24292F?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-24292F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-24292F?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-24292F?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Data, Automation & Integrations**
+**AI & Data**
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-863FFF?style=for-the-badge&logo=databricks&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify_API-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-24292F?style=for-the-badge&logo=claude&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-24292F?style=for-the-badge&logo=ollama&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-24292F?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-24292F?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-24292F?style=for-the-badge&logo=sqlite&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-24292F?style=for-the-badge)
 
-## Featured Projects
+**Automation & Integrations**
 
-### 🪐 Jupiter — Personal AI Assistant
-A FastAPI + React personal assistant with multi-provider LLM routing across Claude, GPT, and Gemini via LiteLLM. Triages Gmail, Instagram, and TikTok messages through a "Doorman" review queue, controls Spotify and Google Calendar, drives Playwright browser automation with stealth Brave-cookie import, and keeps semantic memory in ChromaDB alongside a self-correcting mistake-tracking system.
+![Playwright](https://img.shields.io/badge/Playwright-24292F?style=for-the-badge)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-24292F?style=for-the-badge&logo=googlecalendar&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail_API-24292F?style=for-the-badge&logo=gmail&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify_API-24292F?style=for-the-badge&logo=spotify&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292F?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🖥️ Personal Widget (macOS)
-A 364×364 desktop widget that lives behind app windows among the Finder icons and still takes clicks — Electron + React, backed by a native Objective-C++ addon for macOS window-level control. Surfaces a live GitHub contribution graph, Pomodoro timer, weather, MPRIS now-playing, coursework/ICS calendar ingestion, and macOS app/icon discovery, all wrapped in a hand-tuned "Liquid Glass" visual layer.
+## Projects
 
-### Other projects
-- **MyTime-Agent** — conversational agent that retrieves and reports work schedules from an external scheduling API.
-- **AI-Fitness-Nutrition-Agent** — tracks meals, workouts, and progress with personalized recommendations.
-- **Obsidian Note Taker** — LLM-assisted note capture into an Obsidian vault.
-- **Family Dashboard / Grocery Tracker** — earlier dashboard-style JS projects that fed into the Personal Widget's design.
+### Personal Hub
+A wall display running 24/7: alarms, routines, automations and a local tool-calling agent. A deterministic intent router handles everyday commands, so the small model on a GTX 1050 is only the fallback.
+<br /><sub>ELECTRON · FASTAPI · SQLITE · CHROMADB · LM STUDIO &nbsp;🔒</sub>
+
+### Jupiter
+A personal AI assistant that routes across Claude, GPT and Gemini with 33 tools. Its "Doorman" triages Gmail, Instagram and TikTok messages and drafts replies for me to approve.
+<br /><sub>FASTAPI · REACT · LITELLM · CHROMADB · PLAYWRIGHT &nbsp;🔒</sub>
+
+### Personal Widget
+A macOS widget that lives among the Finder icons and still takes clicks, made possible by a small Objective-C++ addon that sets the native window level.
+<br /><sub>ELECTRON · REACT · OBJECTIVE-C++ &nbsp;🔒</sub>
+
+### Grocery Tracker
+An iPhone app that reads receipts on the device with Apple Intelligence and flags what has probably run out. No account, no server.
+<br /><sub>SWIFT · iOS 26 · APPLE INTELLIGENCE &nbsp;🔒</sub>
+
+<details>
+<summary><b>More projects</b></summary>
+<br />
+
+| | |
+|---|---|
+| [**MyTime-Agent**](https://github.com/Farflan/MyTime-Agent) | Syncs my work schedule and answers questions about it with Claude |
+| [**AI-Fitness-Nutrition-Agent**](https://github.com/Farflan/AI-Fitness-Nutrition-Agent) | Macro tracker with an AI nutrition coach |
+| **Mac File Organizer** 🔒 | Previews every move first, with a one-command undo and an MCP server |
+| **Obsidian Note Taker** 🔒 | Auto-tags and links notes with a local Ollama model |
+| **Family Dashboard** 🔒 | Kitchen screensaver with live weather and a sun-and-moon horizon |
+
+</details>
+
+## How it connects
+
+<sub>Each project borrows from the one before it.</sub>
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'lineColor':'#8B949E','fontFamily':'ui-sans-serif, system-ui, sans-serif'}}}%%
+flowchart LR
+  J("Jupiter") --> H("Personal Hub")
+  D("Linux Dashboard") --> W("Personal Widget") --> H
+  G1("Grocery PWA") --> G2("Grocery iOS")
+  classDef node fill:#24292F,stroke:#57606A,color:#F0F6FC
+  class J,H,D,W,G1,G2 node
+```
 
 ---
 
-<p align="center"><i>Building tools I actually use every day — if it doesn't survive daily use, it doesn't ship.</i></p>
+<p align="center"><sub><i>If it doesn't survive daily use, it doesn't ship.</i> &nbsp;·&nbsp; 🔒 private repo</sub></p>
